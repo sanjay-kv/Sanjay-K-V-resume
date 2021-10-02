@@ -1,7 +1,7 @@
 # Sanjay-K-V-resume
 This is Sanjay KV's Resume Made on Latex Format.
 
-<img src="	https://img.shields.io/github/license/sanjay-kv/Sanjay-K-V-resume"> <img src="https://img.shields.io/github/last-commit/sanjay-kv/resume"> <img src="https://img.shields.io/github/languages/code-size/sanjay-kv/resume">
+<img src="	https://img.shields.io/github/license/sanjay-kv/resume"> <img src="https://img.shields.io/github/last-commit/sanjay-kv/resume"> <img src="https://img.shields.io/github/languages/code-size/sanjay-kv/resume">
 
 ### Dependencies
 1. Compiles with **LuaLaTeX**.
