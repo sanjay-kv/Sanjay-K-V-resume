@@ -9,7 +9,7 @@ This is Sanjay KV's Resume Made on Latex Format.
 A **one-page**, **one-column column** resume template by Sanjay KV. This template is **minimal**, highlights **details** through links, and is a **single page**.
 
 ### Preview
-![alt text](https://github.com/sanjay-kv/Sanjay-K-V-resume/blob/main/Sanjay_K_V_resume-1.png)
+![alt text](https://github.com/sanjay-kv/Sanjay-K-V-resume/blob/main/Sanjay_K_V_Resume_Sample.png)
 
 
 
