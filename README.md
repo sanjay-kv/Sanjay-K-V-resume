@@ -3,7 +3,7 @@ This is Sanjay KV's Resume Made on Latex Format.
 
 <img src="	https://img.shields.io/github/license/sanjay-kv/resume"> <img src="https://img.shields.io/github/last-commit/sanjay-kv/resume"> <img src="https://img.shields.io/github/languages/code-size/sanjay-kv/resume">
 
-### Dependencies
+### Dependencies Used
 1. Compiles with **LuaLaTeX**.
 
 A **one-page**, **one-column column** resume template by Sanjay KV. This template is **minimal**, highlights **details** through links, and is a **single page**.
